@@ -1,1 +1,3 @@
-# ISKAALAMAN---A-learning-and-Study-Management-Tool
+# ISKAALAMAN - A learning and Study Management Tool
+
+	Academic life has long been a source of stress for many students, particularly when managing multiple subjects, deadlines, and exams. Many students struggle to review effectively and maintain a consistent study schedule due to poor time management and lack of personalized planning. This persistent issue has been exacerbated by the increasing complexity of academic demands over the years. To address these challenges, we propose Iskaalaman, a smart study companion designed to help students organize their study materials, generate self-assessment quizzes, and plan personalized study schedules based on their actual academic data made using C++
